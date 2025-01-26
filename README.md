@@ -1,5 +1,5 @@
 
-[Vídeo Mostrando o funcionando da aplicação](https://youtu.be/ySnZ_329FCw?si=QazenbVUWw4qtJLE)
+[Vídeo Mostrando o funcionando da aplicação. O vídeo está como não listado so às pessoas com o link podem assistir](https://youtu.be/ySnZ_329FCw?si=QazenbVUWw4qtJLE)
 
 ## Decisão da Arquitetura Utilizada
 
