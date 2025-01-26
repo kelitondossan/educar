@@ -1,0 +1,15 @@
+/home/keliton/Vídeos/education/AcademicApp/src/AcademicApp.Infra/obj/Debug/net8.0/AcademicApp.Infra.csproj.AssemblyReference.cache
+/home/keliton/Vídeos/education/AcademicApp/src/AcademicApp.Infra/obj/Debug/net8.0/AcademicApp.Infra.GeneratedMSBuildEditorConfig.editorconfig
+/home/keliton/Vídeos/education/AcademicApp/src/AcademicApp.Infra/obj/Debug/net8.0/AcademicApp.Infra.AssemblyInfoInputs.cache
+/home/keliton/Vídeos/education/AcademicApp/src/AcademicApp.Infra/obj/Debug/net8.0/AcademicApp.Infra.AssemblyInfo.cs
+/home/keliton/Vídeos/education/AcademicApp/src/AcademicApp.Infra/obj/Debug/net8.0/AcademicApp.Infra.csproj.CoreCompileInputs.cache
+/home/keliton/Vídeos/education/AcademicApp/src/AcademicApp.Infra/bin/Debug/net8.0/AcademicApp.Infra.deps.json
+/home/keliton/Vídeos/education/AcademicApp/src/AcademicApp.Infra/bin/Debug/net8.0/AcademicApp.Infra.dll
+/home/keliton/Vídeos/education/AcademicApp/src/AcademicApp.Infra/bin/Debug/net8.0/AcademicApp.Infra.pdb
+/home/keliton/Vídeos/education/AcademicApp/src/AcademicApp.Infra/bin/Debug/net8.0/AcademicApp.Domain.dll
+/home/keliton/Vídeos/education/AcademicApp/src/AcademicApp.Infra/bin/Debug/net8.0/AcademicApp.Domain.pdb
+/home/keliton/Vídeos/education/AcademicApp/src/AcademicApp.Infra/obj/Debug/net8.0/AcademicApp.Infra.csproj.CopyComplete
+/home/keliton/Vídeos/education/AcademicApp/src/AcademicApp.Infra/obj/Debug/net8.0/AcademicApp.Infra.dll
+/home/keliton/Vídeos/education/AcademicApp/src/AcademicApp.Infra/obj/Debug/net8.0/refint/AcademicApp.Infra.dll
+/home/keliton/Vídeos/education/AcademicApp/src/AcademicApp.Infra/obj/Debug/net8.0/AcademicApp.Infra.pdb
+/home/keliton/Vídeos/education/AcademicApp/src/AcademicApp.Infra/obj/Debug/net8.0/ref/AcademicApp.Infra.dll
