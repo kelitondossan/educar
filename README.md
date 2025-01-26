@@ -48,8 +48,11 @@ O projeto foi dividido em duas camadas principais:
 
 #### Backend:
 
-1. Navegue até a pasta do backend.
-2. Configure a string de conexão no `appsettings.json` (exemplo no campo `DefaultConnection`).
+1. Navegue até a pasta do backend para a pasta AcademicApp.API.
+2. Configure a string de conexão no `appsettings.json` (exemplo no campo `DefaultConnection` {
+  "ConnectionStrings": {
+    "DefaultConnection": "Host=localhost;Port=5432;Database=academic_app;Username=root;Password=root"
+  }).
 3. Execute os seguintes comandos:
    ```bash
    dotnet restore
@@ -85,6 +88,7 @@ O projeto foi dividido em duas camadas principais:
    - Adicionar paginação nativa no backend.
    - Criar rotas adicionais para relatórios específicos no backend.
    - Melhorar as validações de entrada utilizando **FluentValidation**.
+   - docker
 
 4. **Autenticação e Autorização**:
    - Implementar autenticação com **JWT** para maior segurança da API.
