@@ -1,5 +1,5 @@
 
-[Vídeo explicativo da arquitetura](https://youtu.be/ySnZ_329FCw?si=QazenbVUWw4qtJLE)
+[Vídeo Mostrando o funcionando da aplicação](https://youtu.be/ySnZ_329FCw?si=QazenbVUWw4qtJLE)
 
 ## Decisão da Arquitetura Utilizada
 
