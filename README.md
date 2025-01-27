@@ -88,6 +88,9 @@ O projeto foi dividido em duas camadas principais:
 2. **Performance**:
    - Melhorar o desempenho do backend com **caching** para endpoints frequentemente acessados.
    - Implementar otimização no carregamento de recursos estáticos no frontend.
+   - Implementaria o Redux ou Zustang para maior controle da aplicação
+   - implementaria i18n para uma aplicação multilingue
+   
 
 3. **Funcionalidades Adicionais**:
    - Adicionar paginação nativa no backend.
