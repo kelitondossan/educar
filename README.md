@@ -90,6 +90,7 @@ O projeto foi dividido em duas camadas principais:
    - Implementar otimização no carregamento de recursos estáticos no frontend.
    - Implementaria o Redux ou Zustang para maior controle da aplicação
    - implementaria i18n para uma aplicação multilingue
+   - implementaria a aplicação em docker para maior controle de escalabilidade e performance em containers 
    
 
 3. **Funcionalidades Adicionais**:
